@@ -1,5 +1,2 @@
-Hi I am coming from local repo
-I like this remote system
-Hey !! Good Morning
-
-Do you like to store data on cloud?
+yes I like to store my data on cloud
+It keeps it safe
